@@ -1,0 +1,7 @@
+BANK ACCOUNT DETAILS
+
+Account name: m.sabarimurugan.
+Bank name: HDFC BANK.
+Branch name: PERUNGALATHUR.
+Account number: 50100273896502.
+IFSC code: HDFC0001871 (used for RTGS and NEFT transactions)
